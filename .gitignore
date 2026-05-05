@@ -1,0 +1,5 @@
+.gradle/
+build/
+app/build/
+local.properties
+fix_java_*.py
